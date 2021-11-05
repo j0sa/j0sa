@@ -7,7 +7,7 @@
 
 
 ### 🧰 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
