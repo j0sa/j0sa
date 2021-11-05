@@ -17,11 +17,6 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=github&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 
-<!--
-[![My Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 ### &#x1f4c8; GitHub Statistics
 <a href="https://github.com/j0sa/j0sa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=nightowl&langs_count=3&hide_border=true" />
@@ -33,15 +28,14 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=j0sa.j0sa&left_color=green&right_color=red) -->
 
 <details>
-  <summary>Recent Activity</summary>
+  <summary>⚡ Recent Activity</summary>
+  
+  <!--START_SECTION:activity-->
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=j0sa)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=j0sa)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--
-**j0sa/j0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
