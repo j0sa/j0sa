@@ -18,6 +18,10 @@
 [![My Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/j0sa/j0sa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark" />
+</a>
+
 <!--
 **j0sa/j0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
