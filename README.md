@@ -1,8 +1,11 @@
 ## Hi, my name is Jonas Samuelsson - aka j0sa 👋
 
 ### 🧰 Technologies & Tools
-![](https://img.shields.io/badge/OS-LINUX-informational?style=flat-square&?logo=linux=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/EDITOR-VIM-informational?style=flat-square&?logo=vim=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-LINUX-informational?style=flat-square&logo=linux=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/EDITOR-VIM-informational?style=flat-square&logo=vim=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-C-informational?style=flat-square&logo=c=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-C++-informational?style=flat-square&logo=cplusplus=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-C#-informational?style=flat-square&logo=csharp=&logoColor=white&color=2bbc8a)
 
 <!--
 **j0sa/j0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
