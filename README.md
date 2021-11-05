@@ -30,7 +30,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=nightowl&line_height=27&hide_border=true" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=j0sa.j0sa&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=j0sa.j0sa&left_color=green&right_color=red) -->
+
+<details>
+  <summary>Recent Activity</summary>
+</details>
 
 <!--
 **j0sa/j0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
