@@ -1,7 +1,7 @@
 ## Hi, my name is Jonas Samuelsson - aka j0sa 👋
 
 ### 🧰 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=pink&color=purple)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=pink&color=purple&labelColor=#102a44)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=pink&color=purple)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=pink&color=purple)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=pink&color=purple)
