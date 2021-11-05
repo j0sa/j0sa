@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, my name is Jonas Samuelsson - aka j0sa 👋
+
+### 🧰 Technologies & Tools
+---
+![](https://img.shields.io/badge/OS-LINUX-informational?style=flat-square&logo=linux=&logoColor=white&color=2bbc8a)
 
 <!--
 **j0sa/j0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
