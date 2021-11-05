@@ -1,19 +1,19 @@
 ## Hi, my name is Jonas Samuelsson - aka j0sa 👋
 
 ### 🧰 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=pink)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat-square&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=pink&color=purple)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=csharp&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat-square&logo=sqlite&logoColor=white&color=purple)
 
 <!--
 [![My Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
