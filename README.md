@@ -26,7 +26,7 @@
 </a>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=j0sa.j0sa&left_color=green&right_color=red) -->
-
+---
 <details>
   <summary>⚡ Recent Activity</summary>
   
