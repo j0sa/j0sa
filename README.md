@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Hi,%20my%20name%20is%20Jonas%20Samuelsson%20-%20aka%20j0sa&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20my%20name%20is%20Jonas%20Samuelsson%20-%20aka%20j0sa&fontSize=40&animation=twinkling&desc=what)
 
 ### 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
