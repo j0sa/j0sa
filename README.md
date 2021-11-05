@@ -33,8 +33,10 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=j0sa.j0sa&left_color=green&right_color=red) -->
 
 <details>
-  <summary>### Recent Activity</summary>
+  <summary>Recent Activity</summary>
 </details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=j0sa)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **j0sa/j0sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
