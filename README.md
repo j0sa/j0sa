@@ -21,7 +21,7 @@
 -->
 
 <a href="https://github.com/j0sa/j0sa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark&langs_count=3" />
 </a>
 <a href="https://github.com/j0sa/j0sa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=dark" />
