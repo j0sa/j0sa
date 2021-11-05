@@ -1,19 +1,25 @@
 ## Hi, my name is Jonas Samuelsson - aka j0sa 👋
 
 ### 🧰 Technologies & Tools
+<!-- OS -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+<!-- Editor -->
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+<!-- Code -->
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=csharp&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+<!-- Shell -->
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+<!-- Tools -->
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat-square&logo=microsoftsqlserver&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat-square&logo=sqlite&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 
 <!--
 [![My Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
