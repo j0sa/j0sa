@@ -22,10 +22,10 @@
 
 ### &#x1f4c8; GitHub Statistics
 <a href="https://github.com/j0sa/j0sa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark&langs_count=3&hide_border=true" />
 </a>
 <a href="https://github.com/j0sa/j0sa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=dark&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=dark&line_height=27&hide_border=true" />
 </a>
 
 <!--
