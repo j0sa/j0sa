@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat-square&logo=microsoftsqlserver&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat-square&logo=sqlite&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=github&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 
 <!--
 [![My Top Lanugages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
