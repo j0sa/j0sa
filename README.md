@@ -14,15 +14,15 @@
 
 I'm an ex-Development Engineer turned Software Engineer from Sweden. I love everything technology, both software and hardware.
 
-### 🤗 I Enjoy
+## 🤗 I Enjoy
 * Learning New Things 🧠
 * Reading 📖
 * Astronomy 🔭
 * Machine Learning 🤖
 * and Playing the Violin 🎻
 
-### 🧰 Favourite Tech
-#### Programming languages
+## 🧰 Favourite Tech
+### Programming languages
 ![image](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
@@ -38,7 +38,7 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 ![image](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Sass-informational?style=flat-square&logo=sass&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Assembly-informational?style=flat-square&logo=assembly&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-#### Framworks & Libraries
+### Framworks & Libraries
 ![image](https://img.shields.io/badge/Tools-NumPy-informational?style=flat-square&logo=numpy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SciPy-informational?style=flat-square&logo=scipy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SciKit_Learn-informational?style=flat-square&logo=scikitlearn&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
@@ -46,19 +46,19 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 ![image](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat-square&logo=pytorch&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-#### Databases & Cloud Hosting
+### Databases & Cloud Hosting
 ![image](https://img.shields.io/badge/Tools-GitHub_Pages-informational?style=flat-square&logo=githubpages&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat-square&logo=microsoftsqlserver&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SQLite-informational?style=flat-square&logo=sqlite&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-#### Software & Tools
+### Software & Tools
 ![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=github&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 
-### &#x1f4c8; GitHub Statistics
+## &#x1f4c8; GitHub Statistics
 <p align='center'>
   <a href="https://github.com/j0sa/j0sa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=nightowl&hide_border=true&layout=compact&langs_count=20&card_width=270" />
