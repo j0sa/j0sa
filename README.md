@@ -21,10 +21,9 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 * Machine Learning 🤖
 * and Playing the Violin 🎻
 
-### 🧰 Technologies & Tools
-![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-![image](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-![image](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+### 🧰 Favourite Tech
+#### Programming languages
+![image](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=csharp&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
@@ -32,16 +31,23 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 ![image](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-![image](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+#### Framworks & Libraries
 ![image](https://img.shields.io/badge/Tools-NumPy-informational?style=flat-square&logo=numpy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SciPy-informational?style=flat-square&logo=scipy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SciKit_Learn-informational?style=flat-square&logo=scikitlearn&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Pandas-informational?style=flat-square&logo=pandas&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat-square&logo=pytorch&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Tools-Keras-informational?style=flat-square&logo=keras&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+#### Databases & Cloud Hosting
+![image](https://img.shields.io/badge/Tools-GitHub_Pages-informational?style=flat-square&logo=githubpages&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat-square&logo=microsoftsqlserver&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SQLite-informational?style=flat-square&logo=sqlite&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+#### Software & Tools
+![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=vim&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=github&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 
