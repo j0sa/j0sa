@@ -2,7 +2,7 @@
 
 ### 📫 How to Reach Me
 ![image](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/j0sa?label=github&logo=github&style=for-the-badgelabelColor=black)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
