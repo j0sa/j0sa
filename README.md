@@ -24,8 +24,7 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 ## 🧰 Favourite Tech
 ### Programming languages
 ![image](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-![image](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-![image](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=csharp&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
