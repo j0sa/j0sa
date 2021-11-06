@@ -14,18 +14,14 @@
 
 I'm an ex-Development Engineer turned Software Engineer from Sweden. I love everything technology, both software and hardware.
 
-<p align='center'>
-  <a>
-    ## 🤗 I Enjoy
-    * Learning New Things 🧠
-    * Reading 📖
-    * Astronomy 🔭
-    * Machine Learning 🤖
-    * and Playing the Violin 🎻
-  </a>
-</p>
+# 🤗 I Enjoy
+* Learning New Things 🧠
+* Reading 📖
+* Astronomy 🔭
+* Machine Learning 🤖
+* and Playing the Violin 🎻
 
-## 🛠️ Favourite Tech
+# 🛠️ Favourite Tech
 ### 👨‍💻 Programming languages
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -70,7 +66,7 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## &#x1f4c8; GitHub Statistics
+# &#x1f4c8; GitHub Statistics
 <p align='center'>
   <a href="https://github.com/j0sa/j0sa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=nightowl&hide_border=true&layout=compact&langs_count=20&card_width=270" />
