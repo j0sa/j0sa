@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=102a44&height=300&section=header&text=Hi,%20my%20name%20is%20Jonas%20Samuelsson&fontSize=40&desc=aka%20j0sa&fontColor=994CC3&descSize=25)
 
 <p align='center'>
-  <a href="">
+  <a href="https://github.com/j0sa">
     <img src="https://img.shields.io/github/followers/j0sa?label=github&logo=github&style=for-the-badge&labelColor=black&color=994CC3" />
   </a>&nbsp;&nbsp;
   <a href="">
