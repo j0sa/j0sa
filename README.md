@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=102a44&height=300&section=header&text=Hi,%20my%20name%20is%20Jonas%20Samuelsson&fontSize=40&desc=aka%20j0sa&fontColor=994CC3&descSize=25)
 
-### 🤗 I Enjoy
-* Learning New Things 🤓
-* Reading 📖
-* Astronomy 🔭
-* Machine Learning 🤖
-* and Playing the Violin 🎻
-
 <p align='center'>
   <a href="https://github.com/j0sa">
     <img src="https://img.shields.io/github/followers/j0sa?label=github&logo=github&style=for-the-badge&labelColor=black&color=994CC3" />
@@ -19,6 +12,14 @@
   </a>&nbsp;&nbsp;
 </p>
 
+I'm an ex-Development Engineer turned Software Engineer. I love everything technology, both software and hardware.
+
+### 🤗 I Enjoy
+* Learning New Things 🧠
+* Reading 📖
+* Astronomy 🔭
+* Machine Learning 🤖
+* and Playing the Violin 🎻
 
 ### 🧰 Technologies & Tools
 ![image](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
