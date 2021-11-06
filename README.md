@@ -14,12 +14,16 @@
 
 I'm an ex-Development Engineer turned Software Engineer from Sweden. I love everything technology, both software and hardware.
 
-## 🤗 I Enjoy
-* Learning New Things 🧠
-* Reading 📖
-* Astronomy 🔭
-* Machine Learning 🤖
-* and Playing the Violin 🎻
+<p align='center'>
+  <a>
+    ## 🤗 I Enjoy
+    * Learning New Things 🧠
+    * Reading 📖
+    * Astronomy 🔭
+    * Machine Learning 🤖
+    * and Playing the Violin 🎻
+  </a>
+</p>
 
 ## 🛠️ Favourite Tech
 ### 👨‍💻 Programming languages
