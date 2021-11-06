@@ -47,7 +47,7 @@ I'm an ex-Development Engineer turned Software Engineer. I love everything techn
 
 ### &#x1f4c8; GitHub Statistics
 <a href="https://github.com/j0sa/j0sa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=nightowl&hide_border=true&layout=compact&langs_count=6&card_width=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sa&theme=nightowl&hide_border=true&layout=compact&langs_count=20&card_width=20" />
 </a>
 <a href="https://github.com/j0sa/j0sa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=j0sa&count_private=true&show_icons=true&theme=nightowl&line_height=20&hide_border=true&include_all_commits=true" />
