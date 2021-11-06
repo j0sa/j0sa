@@ -7,6 +7,9 @@
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://dev.to/j0sa">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 
