@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=102a44&height=300&section=header&text=Hi,%20my%20name%20is%20Jonas%20Samuelsson&fontSize=40&desc=aka%20j0sa&fontColor=994CC3&descSize=25)
 
-### I Enjoy
-* Learning New Things
-* Reading
+### 🤗 I Enjoy
+* Learning New Things 🤓
+* Reading 📖
 * Astronomy 🔭
-* and Playing the Violin
+* Machine Learning 🤖
+* and Playing the Violin 🎻
 
 <p align='center'>
   <a href="https://github.com/j0sa">
