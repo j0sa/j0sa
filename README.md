@@ -35,7 +35,7 @@ I'm an ex-Development Engineer turned Software Engineer. I love everything techn
 ![image](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-NumPy-informational?style=flat-square&logo=numpy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SciPy-informational?style=flat-square&logo=scipy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
-![image](https://img.shields.io/badge/Tools-SciKit-Learn-informational?style=flat-square&logo=scikitlearn&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Tools-SciKit&#45;Learn-informational?style=flat-square&logo=scikitlearn&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-Pandas-informational?style=flat-square&logo=pandas&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat-square&logo=pytorch&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
