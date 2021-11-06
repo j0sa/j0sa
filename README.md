@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=102a44&height=300&section=header&text=Hi,%20my%20name%20is%20Jonas%20Samuelsson&fontSize=40&desc=aka%20j0sa&fontColor=994CC3&descSize=25)
 
+### I Enjoy
+* Learning New Things
+* Reading
+* Astronomy 🔭
+* and Playing the Violin
+
 <p align='center'>
   <a href="https://github.com/j0sa">
     <img src="https://img.shields.io/github/followers/j0sa?label=github&logo=github&style=for-the-badge&labelColor=black&color=994CC3" />
@@ -21,6 +27,7 @@
 ![image](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=csharp&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnubash&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
