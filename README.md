@@ -2,9 +2,9 @@
 
 <p align='center'>
   <a href="https://github.com/j0sa">
-    <img src="https://img.shields.io/github/followers/j0sa?label=github&logo=github&style=for-the-badge&labelColor=black&color=994CC3" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/j0sa">
+  <a href="mailto:josa@tuta.io">
     <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jonas-samuelsson-254887125/">
