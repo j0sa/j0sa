@@ -12,7 +12,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-I'm an ex-Development Engineer turned Software Engineer. I love everything technology, both software and hardware.
+I'm an ex-Development Engineer turned Software Engineer from Sweden. I love everything technology, both software and hardware.
 
 ### 🤗 I Enjoy
 * Learning New Things 🧠
