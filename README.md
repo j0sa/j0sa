@@ -4,11 +4,14 @@
   <a href="https://github.com/j0sa">
     <img src="https://img.shields.io/github/followers/j0sa?label=github&logo=github&style=for-the-badge&labelColor=black&color=994CC3" />
   </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  <a href="https://dev.to/j0sa">
+    <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jonas-samuelsson-254887125/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/j0sa">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />        
+    <img src="ttps://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
