@@ -31,6 +31,9 @@ I'm an ex-Development Engineer turned Software Engineer from Sweden. I love ever
 ![image](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Code-LaTeX-informational?style=flat-square&logo=latex&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Code-SQL-informational?style=flat-square&logo=sql&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
+![image](https://img.shields.io/badge/Code-R-informational?style=flat-square&logo=r&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 #### Framworks & Libraries
 ![image](https://img.shields.io/badge/Tools-NumPy-informational?style=flat-square&logo=numpy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
 ![image](https://img.shields.io/badge/Tools-SciPy-informational?style=flat-square&logo=scipy&logoColor=7FDBCA&color=994CC3&labelColor=102a44)
