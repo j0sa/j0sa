@@ -22,6 +22,7 @@ I'm an ex-Development Engineer turned Software Engineer based in Sweden. I love 
 * Reading 📖
 * Astronomy 🔭
 * Machine Learning 🤖
+* Mechanical Keyboards ⌨️
 * and Playing the Violin 🎻
 
 # 🛠️ Favourite Tech
