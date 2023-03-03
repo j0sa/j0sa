@@ -15,7 +15,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### I'm an ex-Development Engineer turned Software Engineer based in Sweden. I love everything technology, both software and hardware.
+### Working as a Cloud Engineer at SJ. I love everything technology, both software and hardware.
 
 # 🤗 I Enjoy
 * Learning New Things 🧠
